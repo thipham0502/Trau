@@ -139,8 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="OngCa.cpp" />
+    <ClCompile Include="CBD.cpp" />
+    <ClCompile Include="Khi.cpp" />
     <ClCompile Include="Loe.cpp" />
+    <ClCompile Include="Luo.cpp" />
     <ClCompile Include="Mo.cpp" />
+    <ClCompile Include="Nhen.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
